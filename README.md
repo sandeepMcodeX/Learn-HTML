@@ -13,7 +13,7 @@ Each project focuses on using **pure HTML** (with some CSS if needed) to develop
 |------|-------------------------|
 | 1    | My First Website        | 
 | 2    | Marsheet Design         | 
-| 3    | Calender 2025           | 
+| 3    | Calendar 2025           | 
 | 4    | Chess Design            | 
 ---
 
